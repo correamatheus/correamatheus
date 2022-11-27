@@ -18,3 +18,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, amante da leitura e sempre em busca novos desafios!
+
+## Projetos:
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+[React - Fundamentos](https://github.com/correamatheus/Projeto---Fundamentos-React)
