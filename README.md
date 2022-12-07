@@ -23,5 +23,6 @@ Apaixonado por tecnologia, amante da leitura e sempre em busca novos desafios!
 ## Projetos:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
+- [React - Pomadoro](https://github.com/correamatheus/Pomadoro--ReactJs-TypeScript)
 - [React - Fundamentos](https://github.com/correamatheus/Projeto---Fundamentos-React)
 - [React - Fundamentos em Typescript](https://github.com/correamatheus/Projeto-Fundamentos-React-Typescript)
