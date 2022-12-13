@@ -27,4 +27,6 @@ Apaixonado por tecnologia, amante da leitura e sempre em busca novos desafios!
 - [React - Fundamentos](https://github.com/correamatheus/Projeto---Fundamentos-React)
 - [React - Fundamentos em Typescript](https://github.com/correamatheus/Projeto-Fundamentos-React-Typescript)
 
-img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+
+- [Angular - App Movies (Frontend_mentor)](https://github.com/correamatheus/entertainment-web_angular)
