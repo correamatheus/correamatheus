@@ -26,3 +26,5 @@ Apaixonado por tecnologia, amante da leitura e sempre em busca novos desafios!
 - [React - Pomadoro](https://github.com/correamatheus/Pomadoro--ReactJs-TypeScript)
 - [React - Fundamentos](https://github.com/correamatheus/Projeto---Fundamentos-React)
 - [React - Fundamentos em Typescript](https://github.com/correamatheus/Projeto-Fundamentos-React-Typescript)
+
+img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB"/>
